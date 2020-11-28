@@ -1,2 +1,2 @@
-# stretchy-bird
-Have fun dragging the bird with your mouse!
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
